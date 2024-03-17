@@ -1,0 +1,32 @@
+Major Project CSS
+------------------------
+.)setting up
+  copy the font awsome cdn in head tag
+
+.)Basics
+  overflow-page ke uper extra content agar hai to use manage krne ke liye use hota hai    
+                 scroll , clip, hidden etc. values aapn use kru shkto
+
+.)Layout
+   Flex =1; ( baki sb element ko chodke baki jitni jga bchti hai o muze dedo)
+   1rem-16px
+
+.)sidebar(nav)
+  
+
+.)sidebar(library)
+
+.)library boxes
+  width: fit-content;
+
+.) Sticky-nav
+   sticky-nav - stik kb stick hoga jb scroll kiya jayega 
+
+.)cards
+
+.) footer line
+
+.)playback bar
+  appearance-control native appearnce of UI control based on operating system theme
+  go to quirkmodes css for setting up the playback bar
+  
